@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 		CAHPTER - 2
 
 This was a snow fall day in badlapur , 
@@ -9,3 +10,9 @@ So,they asked tagore to do their job .
 Tagore accepted to do their job and his
 dopamine levels were so high that he was excited 
 that he gona do his dream job .
+=======
+		CHAPTER - 2 
+
+this was a heavy rainy day in badlapur town and tagore is having his
+cofee and bajji in one small potti shop , and enjoying ....
+>>>>>>> rainTheme

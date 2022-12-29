@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 		CAHPTER - 1
 
 Once upon a time in the town of badlapur ,
@@ -16,3 +17,23 @@ for preparing world famous Panni-Pureess ....
 
 
 
+=======
+		CHAPTER - 1
+
+Once upon a time in the town of badlapur ,
+it was heavily raining and
+their lived a boy named Tagore and he was a 
+very ambitious person .
+
+His goal is to have beautiful Wives.
+
+and he had a motive to make a lot of money to satisfy all his wives 
+he gona have ,and he 
+as his influncers were tano and bunty
+and these two people were already making a lot of fourtune
+ as they were best in their own 
+respective feilds.
+
+
+
+>>>>>>> rainTheme
